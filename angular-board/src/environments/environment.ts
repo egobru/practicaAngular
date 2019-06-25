@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   appName: 'Página de Quique',
-  proyectos:[
+  proyectos: [
     {id: 0, name: 'Learn Angular'},
     {id: 1, name: 'Develop My Dream app'},
     {id: 2, name: 'Travel around the world'},
